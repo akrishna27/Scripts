@@ -1,0 +1,401 @@
+Detailed Owed Amounts Breakdown (in $):
+============================================================
+
+Akhil
+----------------------------------------
+Item: Tokyo to Fukuoka Flight
+Category: Transportation
+Amount Owed: $58.88
+
+Item: Fukuoka to Busan Flight
+Category: Plane
+Amount Owed: $111.51
+
+Item: Flight to Tokyo
+Category: Plane
+Amount Owed: $695.90
+
+Item: Flight to Newark
+Category: Plane
+Amount Owed: $599.18
+
+Item: Seoul AirBnB
+Category: General
+Amount Owed: $147.09
+
+Item: Busan Airbnb
+Category: General
+Amount Owed: $52.22
+
+Item: Fukuoka Airbnb
+Category: General
+Amount Owed: $351.19
+
+Item: Tokyo Airbnb
+Category: General
+Amount Owed: $195.82
+
+Item: Kurokawa Onsen Bus Tickets
+Category: General
+Amount Owed: $47.00
+
+Item: Busan Train Tickets
+Category: Bus/Train
+Amount Owed: $57.72
+
+Item: Shibuya Sky
+Category: Entertainment
+Amount Owed: $16.60
+
+Item: Seoul Sky Tickets
+Category: Entertainment
+Amount Owed: $15.91
+
+Item: Seoul Walking Tour at Night
+Category: General
+Amount Owed: $27.31
+
+Item: Seoul Nightlife Tour
+Category: General
+Amount Owed: $17.20
+
+Item: Shibuya Meetup
+Category: General
+Amount Owed: $49.00
+
+Item: DMZ Trip
+Category: General
+Amount Owed: $45.58
+
+Item: Ryokan Nanjoen
+Category: General
+Amount Owed: $184.56
+
+Total Owed by Akhil: $2,672.66
+========================================
+
+Andrei
+----------------------------------------
+Item: Seoul AirBnB
+Category: General
+Amount Owed: $147.09
+
+Item: Busan Airbnb
+Category: General
+Amount Owed: $52.22
+
+Item: Fukuoka Airbnb
+Category: General
+Amount Owed: $351.19
+
+Item: Tokyo Airbnb
+Category: General
+Amount Owed: $195.82
+
+Item: Busan Train Tickets
+Category: Bus/Train
+Amount Owed: $57.72
+
+Item: Shibuya Sky
+Category: Entertainment
+Amount Owed: $16.60
+
+Item: Seoul Sky Tickets
+Category: Entertainment
+Amount Owed: $15.91
+
+Item: Seoul Walking Tour at Night
+Category: General
+Amount Owed: $27.31
+
+Item: Seoul Nightlife Tour
+Category: General
+Amount Owed: $17.20
+
+Item: Shibuya Meetup
+Category: General
+Amount Owed: $49.00
+
+Item: DMZ Trip
+Category: General
+Amount Owed: $45.58
+
+Total Owed by Andrei: $975.63
+========================================
+
+Ash
+----------------------------------------
+Item: Tokyo to Fukuoka Flight
+Category: Transportation
+Amount Owed: $58.88
+
+Item: Fukuoka to Busan Flight
+Category: Plane
+Amount Owed: $111.51
+
+Item: Flight to Tokyo
+Category: Plane
+Amount Owed: $695.90
+
+Item: Flight to Newark
+Category: Plane
+Amount Owed: $599.18
+
+Item: Seoul AirBnB
+Category: General
+Amount Owed: $147.09
+
+Item: Busan Airbnb
+Category: General
+Amount Owed: $52.22
+
+Item: Fukuoka Airbnb
+Category: General
+Amount Owed: $351.19
+
+Item: Tokyo Airbnb
+Category: General
+Amount Owed: $195.82
+
+Item: Kurokawa Onsen Bus Tickets
+Category: General
+Amount Owed: $47.00
+
+Item: Busan Train Tickets
+Category: Bus/Train
+Amount Owed: $57.72
+
+Item: Shibuya Sky
+Category: Entertainment
+Amount Owed: $16.60
+
+Item: Seoul Sky Tickets
+Category: Entertainment
+Amount Owed: $15.91
+
+Item: Seoul Walking Tour at Night
+Category: General
+Amount Owed: $27.31
+
+Item: Seoul Nightlife Tour
+Category: General
+Amount Owed: $17.20
+
+Item: Shibuya Meetup
+Category: General
+Amount Owed: $49.00
+
+Item: DMZ Trip
+Category: General
+Amount Owed: $45.58
+
+Item: Ryokan Nanjoen
+Category: General
+Amount Owed: $184.56
+
+Total Owed by Ash: $2,672.66
+========================================
+
+Ravi
+----------------------------------------
+Item: Tokyo to Fukuoka Flight
+Category: Transportation
+Amount Owed: $58.88
+
+Item: Fukuoka Airbnb
+Category: General
+Amount Owed: $351.19
+
+Item: Tokyo Airbnb
+Category: General
+Amount Owed: $195.82
+
+Item: Kurokawa Onsen Bus Tickets
+Category: General
+Amount Owed: $47.00
+
+Item: Shibuya Sky
+Category: Entertainment
+Amount Owed: $16.60
+
+Item: Shibuya Meetup
+Category: General
+Amount Owed: $49.00
+
+Item: Ryokan Nanjoen
+Category: General
+Amount Owed: $184.56
+
+Total Owed by Ravi: $903.05
+========================================
+
+Shreya
+----------------------------------------
+Item: Fukuoka to Busan Flight
+Category: Plane
+Amount Owed: $111.51
+
+Item: Flight to Newark
+Category: Plane
+Amount Owed: $599.18
+
+Item: Seoul AirBnB
+Category: General
+Amount Owed: $147.09
+
+Item: Busan Airbnb
+Category: General
+Amount Owed: $52.22
+
+Item: Busan Train Tickets
+Category: Bus/Train
+Amount Owed: $57.72
+
+Item: Seoul Sky Tickets
+Category: Entertainment
+Amount Owed: $15.91
+
+Item: Seoul Walking Tour at Night
+Category: General
+Amount Owed: $27.31
+
+Item: Seoul Nightlife Tour
+Category: General
+Amount Owed: $17.20
+
+Item: DMZ Trip
+Category: General
+Amount Owed: $45.58
+
+Total Owed by Shreya: $1,073.72
+========================================
+
+Vibha
+----------------------------------------
+Item: Tokyo to Fukuoka Flight
+Category: Transportation
+Amount Owed: $58.88
+
+Item: Fukuoka to Busan Flight
+Category: Plane
+Amount Owed: $111.51
+
+Item: Flight to Tokyo
+Category: Plane
+Amount Owed: $695.90
+
+Item: Flight to Newark
+Category: Plane
+Amount Owed: $599.18
+
+Item: Seoul AirBnB
+Category: General
+Amount Owed: $147.09
+
+Item: Busan Airbnb
+Category: General
+Amount Owed: $52.22
+
+Item: Fukuoka Airbnb
+Category: General
+Amount Owed: $351.19
+
+Item: Tokyo Airbnb
+Category: General
+Amount Owed: $195.82
+
+Item: Kurokawa Onsen Bus Tickets
+Category: General
+Amount Owed: $47.00
+
+Item: Busan Train Tickets
+Category: Bus/Train
+Amount Owed: $57.72
+
+Item: Shibuya Sky
+Category: Entertainment
+Amount Owed: $16.60
+
+Item: Seoul Sky Tickets
+Category: Entertainment
+Amount Owed: $15.91
+
+Item: Seoul Walking Tour at Night
+Category: General
+Amount Owed: $27.31
+
+Item: Seoul Nightlife Tour
+Category: General
+Amount Owed: $17.20
+
+Item: Shibuya Meetup
+Category: General
+Amount Owed: $49.00
+
+Item: DMZ Trip
+Category: General
+Amount Owed: $45.58
+
+Item: Ryokan Nanjoen
+Category: General
+Amount Owed: $184.56
+
+Total Owed by Vibha: $2,672.66
+========================================
+
+Vijay
+----------------------------------------
+Item: Tokyo to Fukuoka Flight
+Category: Transportation
+Amount Owed: $59.12
+
+Item: Fukuoka to Busan Flight
+Category: Plane
+Amount Owed: $111.62
+
+Item: Seoul AirBnB
+Category: General
+Amount Owed: $147.09
+
+Item: Busan Airbnb
+Category: General
+Amount Owed: $52.22
+
+Item: Fukuoka Airbnb
+Category: General
+Amount Owed: $351.19
+
+Item: Tokyo Airbnb
+Category: General
+Amount Owed: $195.82
+
+Item: Busan Train Tickets
+Category: Bus/Train
+Amount Owed: $57.72
+
+Item: Shibuya Sky
+Category: Entertainment
+Amount Owed: $16.60
+
+Item: Seoul Sky Tickets
+Category: Entertainment
+Amount Owed: $15.91
+
+Item: Seoul Walking Tour at Night
+Category: General
+Amount Owed: $27.31
+
+Item: Seoul Nightlife Tour
+Category: General
+Amount Owed: $17.20
+
+Item: Shibuya Meetup
+Category: General
+Amount Owed: $49.00
+
+Item: DMZ Trip
+Category: General
+Amount Owed: $45.58
+
+Total Owed by Vijay: $1,146.37
+========================================
